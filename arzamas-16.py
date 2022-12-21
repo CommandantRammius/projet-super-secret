@@ -2,6 +2,7 @@
 
 __copyright__ = "Copyright 2023, Hack'Lantique™"
 __license__ = "IMT"
+__Author__ = "BloodSouldu35"
 __flag__ = "HACKLANTIQUE{A_1A_p0ur5uiT3_d'oCtoBr3_rOu9E}"
 
 import os
